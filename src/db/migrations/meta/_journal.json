@@ -8,6 +8,13 @@
       "when": 1752149458605,
       "tag": "0000_violet_stone_men",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752170924994,
+      "tag": "0001_cool_human_fly",
+      "breakpoints": true
     }
   ]
 }
