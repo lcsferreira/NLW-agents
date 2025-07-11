@@ -15,6 +15,13 @@
       "when": 1752170924994,
       "tag": "0001_cool_human_fly",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752240272795,
+      "tag": "0002_youthful_gideon",
+      "breakpoints": true
     }
   ]
 }
